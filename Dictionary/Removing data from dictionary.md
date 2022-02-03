@@ -21,3 +21,8 @@ deletes a single item or the dictionary entirely
 ### 4. clear()
 
 clears all the items in the dictionary and returns an empty dictionary
+
+```diff
+
+Note:You can find codes related to this in Dictionary in Python 2 file 
+```
