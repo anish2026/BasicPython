@@ -19,4 +19,24 @@ print("Name: ",s)
 ```
 Input
 ```
+Dhoni
+249
+
+Virat
+190
+
+Ponting
+250
+
+AB
+134
+
+Yuraj
+234
+```
+Output
+```
+250
+Ponting
+```
 
